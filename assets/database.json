@@ -1,0 +1,26 @@
+[
+    {   
+        "tx": "template",
+        "collection": "EXMAPLE TITLE",
+        "creator": "example creator",
+        "image": "https://i.seadn.io/gcs/files/68fa5b9a145bfd6b6a57ac7a8d6b51e9.png?auto=format&w=1000",
+        "nft": "EXAMPLE NFT NAME",
+        "description": "example description example exampleexampleexampexampleexampleexampleexample example",
+        "owner": "example owner name",
+        "eth": "eth example",
+        "usd": "$$ example"
+
+    },
+
+    {   
+        "tx": "template2222",
+        "title": "EXMAPLE TITL2222",
+        "nft": "EXAMPLE NFT NAME2222"
+    },
+
+    {
+        "tx": "0x4ec5DB78098453b3818C9ba14eb2BA63792B3ED0",
+        "title": "orangutan",
+        "nft": "monkeybusiness shit"
+    }
+]
